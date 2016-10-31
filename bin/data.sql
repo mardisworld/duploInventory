@@ -1,0 +1,13 @@
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10815', 'MyFirstRocket', 'Lego', '9.99', '90');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10831', 'MyFirstCaterpillar', 'Lego', '9.99', '80');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10818', 'MyFirstTruck', 'Lego', '19.99', '100');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10819', 'MyFirstGarden', 'Lego', '19.99', '75');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10816', 'MyFirstCarsAndTrucks', 'Lego', '19.99', '85');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10615', 'MyFirstTractor', 'Lego', '14.99', '90');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10616', 'MyFirstPlayhouse', 'Lego', '19.99', '100');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10617', 'MyFirstFarm', 'Lego', '19.99', '90');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10603', 'MyFirstBus', 'Lego', '14.99', '95');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10573', 'CreativeAnimals', 'Lego', '14.99', '80');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10558', 'NumberTrain', 'Lego', '19.99', '95');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10507', 'MyFirstTrainSet', 'Lego', '44.99', '100');
+insert into duplostore.products (upc, product_name, product_manufacturer, product_price, inventory) values ('10811', 'BackhoeLoader', 'Lego', '49.99', '70');
